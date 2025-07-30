@@ -5,8 +5,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/abhishek8172/Daily_DSA/tree/master/0001-two-sum) |
+| [1127-last-stone-weight](https://github.com/abhishek8172/Daily_DSA/tree/master/1127-last-stone-weight) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/abhishek8172/Daily_DSA/tree/master/0001-two-sum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1127-last-stone-weight](https://github.com/abhishek8172/Daily_DSA/tree/master/1127-last-stone-weight) |
 <!---LeetCode Topics End-->

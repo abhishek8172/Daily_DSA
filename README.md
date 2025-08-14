@@ -29,4 +29,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/abhishek8172/Daily_DSA/tree/master/0035-search-insert-position) |
+## String
+|  |
+| ------- |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/abhishek8172/Daily_DSA/tree/master/2346-largest-3-same-digit-number-in-string) |
 <!---LeetCode Topics End-->

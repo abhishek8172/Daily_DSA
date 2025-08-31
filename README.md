@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abhishek8172/Daily_DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/abhishek8172/Daily_DSA/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/abhishek8172/Daily_DSA/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/abhishek8172/Daily_DSA/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/abhishek8172/Daily_DSA/tree/master/0039-combination-sum) |
 | [1127-last-stone-weight](https://github.com/abhishek8172/Daily_DSA/tree/master/1127-last-stone-weight) |
 ## Hash Table
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/abhishek8172/Daily_DSA/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/abhishek8172/Daily_DSA/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/abhishek8172/Daily_DSA/tree/master/0037-sudoku-solver) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -26,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/abhishek8172/Daily_DSA/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/abhishek8172/Daily_DSA/tree/master/0039-combination-sum) |
 ## Binary Search
 |  |
@@ -39,4 +42,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/abhishek8172/Daily_DSA/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/abhishek8172/Daily_DSA/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
